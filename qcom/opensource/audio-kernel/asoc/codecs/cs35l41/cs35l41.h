@@ -16,6 +16,7 @@
 #define __CS35L41_H__
 
 #include <linux/regmap.h>
+#include <linux/types.h>
 
 #define CS35L41_FIRSTREG		0x00000000
 #define CS35L41_LASTREG			0x03804FE8
